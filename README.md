@@ -1,56 +1,39 @@
-<h1 align="center">Hi 👋, I'm Musab</h1>
-<h3 align="center">Crafting the web, training the minds (of machines)</h3>
+<h1 align="center">Musab Yusuf Üstün</h1>
+<h3 align="center">Full-stack geliştirici · Gaziantep, Türkiye</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musabust&label=Profile%20views&color=0e75b6&style=flat" alt="musabust" />
+  <a href="https://musabustun.dev">musabustun.dev</a>
 </p>
 
 ---
 
-🌐 **About Me**
+**Musab Yusuf Üstün** (Musab Üstün), Gaziantep'te yaşayan bir full-stack geliştiricidir. Gaziantep Üniversitesi'nde Arka Yüz Yazılım Geliştirme (Backend Development) bölümü 1. sınıf öğrencisidir.
 
-- 🚀 I'm passionate about **Web Development**, especially with **Node.js**, **Next.js**, and scalable architectures.
-- 🧠 I train **AI models** and dive into machine learning like it’s a daily puzzle.
-- 🐳 I’m pretty fluent in **Docker**, and currently exploring orchestration and deployment at scale.
-- 💬 Ask me about: `Cloud Servers`, `AI`, `Web Frameworks`, `Containers`.
+Arayüzden sunucuya ve mobile kadar bir ürünün her katmanında çalışır. Sadece uygulama değil, vizyon ve inovasyon geliştirir.
 
----
-
-> 🧠 _“My code doesn’t just run. It makes things happen.”_  
-> <sub>– Musab</sub>
+- 🌐 Kişisel site ve blog: [musabustun.dev](https://musabustun.dev)
+- 👤 Hakkımda: [musabustun.dev/hakkimda](https://musabustun.dev/hakkimda)
+- ✍️ Yazılarım: yapay zeka ajanları, MCP, Claude — [musabustun.dev/blog](https://musabustun.dev/blog)
+- 💡 Bir fikrin mi var? [musabustun.dev/fikir](https://musabustun.dev/fikir)
 
 ---
 
-### 🌐 Find Me Online
+### Bağlantılar
 
+- 🌐 [musabustun.dev](https://musabustun.dev)
+- ✖️ [X: @musabbust](https://x.com/musabbust)
 - 📸 [Instagram: @musabust](https://instagram.com/musabust)
-- ✖️ [X (Twitter): @musabbust](https://x.com/musabbust)
-- 📧 [Email: musabyusufustun@outlook.com](mailto:musabyusufustun@outlook.com)
+- 📧 [merhaba@musabustun.dev](mailto:merhaba@musabustun.dev)
 
 ---
 
-### 🧪 Tech Stack
+### Teknolojiler
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
----
-
-📊 **Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musabustun&show_icons=true&theme=radical" alt="Musab's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musabustun&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-⚡ **Fun Fact**
-
-> I don’t just build code. I build stories, scale dreams, and maybe... train a model that writes better bios than this one 😄
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
