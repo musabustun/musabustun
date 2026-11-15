@@ -1,0 +1,22 @@
+name: Son blog yazıları
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - name: README'deki yazı listesini güncelle
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://musabustun.dev/rss.xml"
+          max_post_count: 5
+          commit_message: "docs: son blog yazıları güncellendi"
