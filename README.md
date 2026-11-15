@@ -124,8 +124,8 @@ Arayüzden sunucuya ve mobile kadar bir ürünün her katmanında çalışıyoru
 
 <!-- BLOG-POST-LIST:START -->
 - [Tarayıcıda kod çalıştıran bir playground yaptım](https://musabustun.dev/blog/playground-yapay-zeka-kod-tamamlama)
-- [Kontrolden Çıkan Ajanlar (Rogue Agents) ve Güvenlik Krizleri](https://musabustun.dev/blog/kontrolden-cikan-ajanlar-rogue-agents-guvenlik)
-- [Model Context Protocol (MCP) ve Otonom Ajan Orkestrasyonu](https://musabustun.dev/blog/model-context-protocol-mcp-ve-otonom-ajan-orkestrasyonu)
+- [Kontrolden Çıkan Ajanlar &lpar;Rogue Agents&rpar; ve Güvenlik Krizleri](https://musabustun.dev/blog/kontrolden-cikan-ajanlar-rogue-agents-guvenlik)
+- [Model Context Protocol &lpar;MCP&rpar; ve Otonom Ajan Orkestrasyonu](https://musabustun.dev/blog/model-context-protocol-mcp-ve-otonom-ajan-orkestrasyonu)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Liste her gün <a href="https://musabustun.dev/rss.xml">RSS</a>'ten otomatik güncellenir · <a href="https://musabustun.dev/blog">Tüm yazılar →</a></sub>
