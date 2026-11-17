@@ -123,6 +123,7 @@ Arayüzden sunucuya ve mobile kadar bir ürünün her katmanında çalışıyoru
 ### ✍️ Son yazılarım
 
 <!-- BLOG-POST-LIST:START -->
+- [Tarayıcıda gezilen 3B bir iş merkezi yaptım](https://musabustun.dev/blog/ofis-3b-voxel-is-merkezi)
 - [Tarayıcıda kod çalıştıran bir playground yaptım](https://musabustun.dev/blog/playground-yapay-zeka-kod-tamamlama)
 - [Kontrolden Çıkan Ajanlar &lpar;Rogue Agents&rpar; ve Güvenlik Krizleri](https://musabustun.dev/blog/kontrolden-cikan-ajanlar-rogue-agents-guvenlik)
 - [Model Context Protocol &lpar;MCP&rpar; ve Otonom Ajan Orkestrasyonu](https://musabustun.dev/blog/model-context-protocol-mcp-ve-otonom-ajan-orkestrasyonu)
